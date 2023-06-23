@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarthak.
-- 🌱 I’m currently learning css javascript,java and want to learn further.
+- 🌱 I’m currently learning css javascript,java,little bit learing about SAP and want to learn further .
 - 📫 How to reach me :- connect with me through linkedin,github. 
 
 <!---
