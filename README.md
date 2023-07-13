@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sarthak.
+- 👋 Hi, I’m Sarthak,a Consistant learner.
 - 🌱 I’m currently learning css javascript,java,little bit learing about SAP and want to learn further .
 - 📫 How to reach me :- connect with me through linkedin,github. 
 
