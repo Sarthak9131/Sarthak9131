@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarthak.
 - A Consistent learner who belives in hard work.
 - 🌱 I’ve a good knowledge of HTML, css, javascript, java, little bit knowledge about SAP software and in the backend part i've gained knowledge of spring boot, and how to build API's, postman tool.
-- 📫 Checkout my portfolio: https://sarthak9131.github.io/my_portfolio/ 
+- 📫 Checkout my portfolio.
 
 <!---
 Sarthak9131/Sarthak9131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
